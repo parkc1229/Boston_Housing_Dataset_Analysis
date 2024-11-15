@@ -1,1 +1,3 @@
 # Boston_Housing_Dataset_Analysis
+
+The four Jupyter notebooks collectively focus on analyzing and deriving insights from the Boston Housing Dataset. They progressively build on foundational data analysis skills, starting with importing essential Python libraries (NumPy, pandas, matplotlib, and seaborn) and processing the dataset into a structured format. The notebooks explore various stages of data analysis, including preprocessing, exploratory data analysis (EDA), visualization, and potentially advanced techniques such as feature engineering, statistical analysis, and predictive modeling. Each notebook increases in complexity and scope, culminating in a comprehensive exploration of the dataset, integrating data-driven insights and modeling to support conclusions.
